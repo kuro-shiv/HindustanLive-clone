@@ -1,0 +1,37 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+build/
+dist/
+
+# Env files
+*.env
+**/.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# OneDrive temp files
+~$*
+
+# Ignore node native binaries produced by tailwind oxide
+node_modules/@tailwindcss/.oxide-*
