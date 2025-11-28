@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Delhi witnesses heavy rainfall creating major traffic snarls",
+      "description": "Heavy rainfall lashed parts of Delhi, leading to major traffic congestion in the evening hours. Many colonies experienced waterlogging.",
+      "content": "In the evening, the city witnessed torrential downpour leading to severe waterlogging and disruption of routine travel. Authorities advised residents to refrain from unnecessary travel.",
+      "urlToImage": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1",
+      "publishedAt": "2025-11-28"
+    },
+    {
+      "id": 2,
+      "title": "India and world news: Markets steady",
+      "description": "Domestic markets remained steady despite global volatility as some sectors showed resilience.",
+      "content": "The financial markets in India held steady today amid global volatility, with investors focusing on domestic earnings.",
+      "urlToImage": "https://images.unsplash.com/photo-1514894786252-c59f39e9b04b",
+      "publishedAt": "2025-11-27"
+    },
+    {
+      "id": 3,
+      "title": "Education reforms announced by the ministry",
+      "description": "New reforms proposed aim to bridge quality gaps in rural education.",
+      "content": "The ministry proposed new measures targeting infrastructure and teacher training to improve outcomes in rural schools.",
+      "urlToImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644",
+      "publishedAt": "2025-11-27"
+    },
+    {
+      "id": 4,
+      "title": "Tech firms expand in India after policy changes",
+      "description": "Several global tech firms are expanding operations due to improved investment climate.",
+      "content": "Policy changes aimed at simplifying regulations have encouraged firms to increase their footprints in India.",
+      "urlToImage": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
+      "publishedAt": "2025-11-26"
+    },
+    {
+      "id": 5,
+      "title": "Health: New guidelines on nutrition",
+      "description": "Experts call for improved diet and community-based interventions.",
+      "content": "A panel of health experts suggested community-driven programs that focus on nutrition and monitor progress.",
+      "urlToImage": "https://images.unsplash.com/photo-1542736667-069246bdbcaa",
+      "publishedAt": "2025-11-25"
+    }
+  ]
+}
