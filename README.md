@@ -62,17 +62,6 @@ Design Goals:
 ### Wireframe / Sketch
 If you want to attach a sketch image, add it under `public/` and link here. For now, here's a simple ASCII wireframe:
 
-----------------------------------------------------
-| HEADER (branding / nav)                           |
-----------------------------------------------------
-| TOP STORIES (Main hero) | LATEST (side column)   |
-| (large image + title)    | - Latest article 1     |
-|--------------------------| - Latest article 2     |
-| Grid of cards (2-column) | - Latest article 3     |
-| (small image + title)    | - ...                  |
-----------------------------------------------------
-| Footer                                            |
-----------------------------------------------------
 ```
 ----------------------------------------------------
 | HEADER (branding / nav)                           |
@@ -224,5 +213,6 @@ If you want, I can:
 - Add unit tests and automated screen tests for layout on multiple viewport sizes
 
 Let me know which next step you'd like. 
+
 
 
